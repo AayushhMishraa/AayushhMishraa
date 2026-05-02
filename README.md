@@ -146,7 +146,7 @@ Combines ML-based URL analysis, DOM inspection, and a custom threat scoring engi
 
 ```text
 ╔══════════════════════════════════════════════════════╗
-║  "The quieter you become, the more you can hear."   ║
+║  "The quieter you become, the more you can hear."    ║
 ║                              — Kali Linux motto      ║
 ╚══════════════════════════════════════════════════════╝
 ```
